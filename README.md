@@ -10,8 +10,8 @@ During this challenge, I created a summary DataFrame of the ride-sharing data by
 - Fares differ from various type of cities
   - The mean of fare in rural is around $36 while the mean fare in urban is approximately $24.
   - The range of fares is from 15 to 45 in urban cities whilst the range of fares is from about 10 to 45 for urban cities.
-![Fig6](analysis/Fig6.png)
   - The total number of rides is the least in rural cities and the most in urban cities. Total rides in urban cities are around 68.4% of total rides in different cities but there are only around 5.3% rides in rural cities.
+![Fig6](analysis/Fig6.png)
   - The mean of rides in urban are around 37 but the mean of rural rides are 4. This is a dramatical difference.
   - The range of rides number in suburban is between 9 to 27 which is the median. The rides number range is wider in urban which is from 12 to 38 and the range in rural is 3 to 12.
 ![Fig4](analysis/Fig4.png)
