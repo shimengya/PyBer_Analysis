@@ -10,19 +10,15 @@ During this challenge, I created a summary DataFrame of the ride-sharing data by
 - Fares differ from various type of cities
   - Fares tend to be higher in the rural cities compared to the urban cities and fares in suburban cities is between rural and urban.
   - The mean of fare in rural is around $36 while the mean fare in urban is approximately $24.
+  - The range of fares is from 15 to 45 in urban cities whilist the range of fares is from about 10 to 45 for urban cities.
 ![Fig3](analysis/Fig3.png)
   - The total number of rides is the least in rural cities and the most in urban cities.
-  - the mean of rides in urban are around 37 but the mean of rural rides are 4. This is a dramatical difference.
+  - The mean of rides in urban are around 37 but the mean of rural rides are 4. This is a dramatical difference.
+  - The range of rides number in suburban is between 9 to 27 which is the median. The rides number range is wider in urban which is from 12 to 38 and the range in rural is 3 to 12.
 ![Fig4](analysis/Fig4.png)
 
 conclusion: 
  - Less rides resultes to higher fares.
  - There are less population in rural cities and the distance of rural might be longer than urban cities. Thus, there are less rides in rural cities.
+  
   ![Fig1](analysis/Fig1.png)
-
-
-
-# Summary
-## here is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types
-
-![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
