@@ -8,7 +8,6 @@ During this challenge, I created a summary DataFrame of the ride-sharing data by
 
 # Results: There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type
 - Fares differ from various type of cities
-  - Fares tend to be higher in the rural cities compared to the urban cities and fares in suburban cities is between rural and urban.
   - The mean of fare in rural is around $36 while the mean fare in urban is approximately $24.
   - The range of fares is from 15 to 45 in urban cities whilist the range of fares is from about 10 to 45 for urban cities.
 ![Fig3](analysis/Fig3.png)
@@ -18,7 +17,19 @@ During this challenge, I created a summary DataFrame of the ride-sharing data by
 ![Fig4](analysis/Fig4.png)
 
 conclusion: 
+ - Fares tend to be higher in the rural cities compared to the urban cities and fares in suburban cities is between rural and urban.
  - Less rides resultes to higher fares.
  - There are less population in rural cities and the distance of rural might be longer than urban cities. Thus, there are less rides in rural cities.
   
   ![Fig1](analysis/Fig1.png)
+
+
+# Summary
+## here is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types
+- The total fares in rural cities are the lowest and urban cities are highest. Running business in urban cities could help to make more profits.
+- Even though there are more rides in urban cities, but the average fares are still higher than fares in rural cities. This could be another support for the suggestion above.
+- Suburban cities is in the median for both average/total fares or average/total rides. It could be a potential area to develp business. 
+- Business in rural cities is not recommended as the average fares are too high and people may want to avoid the expenses.
+- It looks likee the fares in January tend to be slightly lower than Febarury, March and April. Thus, I would recommend not to have business in January. Instead, the fares tend to be higher in end of Feburaru before March. End of Feburary could be a better option than other months.
+
+![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
